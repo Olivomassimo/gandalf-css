@@ -60,3 +60,7 @@ span{
     transform: scale(0.4);
     top: 450px;
 }
+.gandalf:hover{
+    opacity: 1;
+}
+
